@@ -1,4 +1,4 @@
-## Welcome to Finn's Programming Portfolio
+## Welcome to Finn Carlisle-Patton's Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/finncarlisle/2020Programming1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
